@@ -1,5 +1,5 @@
 # USAGE
-# python3 fashion_mnist_scoville.py
+# python3 fashion_mnist.py
 
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
