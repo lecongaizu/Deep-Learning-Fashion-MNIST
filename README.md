@@ -23,7 +23,7 @@ Before running this project, we need to install some libraries as follows:
 2. Install OpenCv from 3.3.0 with Keras framework.
 
 How to run this project.
-After install all libraries, go to the folder,
+After install all libraries, go to the folder
 python3 fashion_mnist.py
 
 
